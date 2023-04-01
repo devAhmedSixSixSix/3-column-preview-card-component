@@ -20,8 +20,6 @@ Users should be able to:
  * CSS custom properties
  * Flex Box
  * Desktop-first workflow
- * javaScript
-
  
 ## What I learned
 A great project to practice some basics of HTML, CSS.
